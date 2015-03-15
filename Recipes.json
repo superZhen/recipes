@@ -8,22 +8,22 @@
                 "type": "Meat"
             },
             {
-                "quantity": "1 package",
+                "quantity": "2 package",
                 "name": "brown gravy mix",
                 "type": "Baking"
             },
             {
-                "quantity": "1 package",
+                "quantity": "3 package",
                 "name": "dried Italian salad dressing mix",
                 "type": "Condiments"
             },
             {
-                "quantity": "1 package",
+                "quantity": "4 package",
                 "name": "dry ranch dressing mix",
                 "type": "Condiments"
             },
             {
-                "quantity": "1/2 cup",
+                "quantity": "1/5 cup",
                 "name": "water",
                 "type": "Drinks"
             }
